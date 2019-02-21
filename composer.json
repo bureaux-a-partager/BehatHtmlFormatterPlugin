@@ -1,6 +1,6 @@
 {
-    "name": "emuse/behat-html-formatter",
-    "description": "This will create a html formatter for Behat.",
+    "name": "bureaux-a-partager/behat-html-formatter",
+    "description": "Bureaux A Partager Edit - This will create a html formatter for Behat.",
     "authors": [
         {
             "name": "Neal Vanmeert",
